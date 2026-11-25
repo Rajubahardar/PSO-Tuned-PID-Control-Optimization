@@ -1,0 +1,23 @@
+# MATLAB & Simulink temporary/cache files
+*.asv
+*.autosave
+*.slxc
+*.mex*
+slprj/
+_sim_cache/
+
+# LaTeX auxiliary build files (keep .tex and .pdf)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
